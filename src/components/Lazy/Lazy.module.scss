@@ -1,0 +1,14 @@
+.lazyWrapper {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A5F1E9;
+
+    div {
+        color: #38E54D;
+        background-color: #06283D;
+        border-radius: 10px;
+        padding: 12px;
+    }
+}

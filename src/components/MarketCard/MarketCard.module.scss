@@ -1,0 +1,19 @@
+.MarketCardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .MarketCard {
+        width: 200px;
+        height: 200px;
+        padding: 10px;
+
+        .MarketCardInfoRow {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 10px 0;
+        }
+    }
+
+}
